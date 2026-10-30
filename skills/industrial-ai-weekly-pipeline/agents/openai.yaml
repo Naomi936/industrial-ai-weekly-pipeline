@@ -1,0 +1,4 @@
+interface:
+  display_name: "工业AI周报流水线"
+  short_description: "生成发布级工业AI周报：合规信源、内参式长文、商业新闻标题和Word文档。"
+  default_prompt: "生成本周工业AI周报：先搜集日期合规信源，再写成发布级内参长文，用最强新闻点生成商业新闻主标题和公众号头条候选，最后输出Word文档。"

@@ -1,0 +1,22 @@
+{
+  "snapshot_date": "2026-10-30",
+  "mode": "unchanged installed-source snapshot",
+  "files": [
+    {
+      "file": "skills/industrial-ai-weekly-pipeline/SKILL.md",
+      "sha256": "e2ac95b5a91475d2d22902b3d559f5528ae49732ff41547af9210bf1910161bf"
+    },
+    {
+      "file": "skills/industrial-ai-weekly-pipeline/agents/openai.yaml",
+      "sha256": "a355ee1f1a82a1dfe51531112fc075873e623fe4970b8e6b0bb3069f69e81f0c"
+    },
+    {
+      "file": "skills/industrial-ai-weekly-pipeline/scripts/generate_report.py",
+      "sha256": "82fd4e8f1d54e38c5dbc34b894864802a78bdeebebadfa34069b6be9fb4b02ce"
+    },
+    {
+      "file": "skills/industrial-ai-weekly-pipeline/scripts/markdown_to_docx.py",
+      "sha256": "2ab46b13047583b7ee7d1e1ab2d66ed40747a333fc7546a39a5607fb769b03f3"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+[
+  {
+    "key": "initial",
+    "period": "20260803–20260810",
+    "rows": 15,
+    "categories": {
+      "制造业企业巨头动态": 3,
+      "工业AI新技术/新产品": 3,
+      "工业AI资本与初创动态": 3,
+      "前沿科研与学术": 3,
+      "代表性中小企业新闻": 3
+    },
+    "body_han": 2842,
+    "body_non_whitespace": 4732,
+    "refs": 15,
+    "schema_validation": "CSV header must be exactly: title,published_at,event_date,content,link,category",
+    "docx_exists": false
+  },
+  {
+    "key": "aug03",
+    "period": "20260803–20260810",
+    "rows": 30,
+    "categories": {
+      "制造业企业巨头动态": 6,
+      "工业AI新技术/新产品": 6,
+      "工业AI资本与初创动态": 6,
+      "前沿科研与学术": 6,
+      "代表性中小企业新闻": 6
+    },
+    "body_han": 7935,
+    "body_non_whitespace": 11232,
+    "refs": 30,
+    "schema_validation": true,
+    "docx_exists": true,
+    "docx_zip_ok": true,
+    "docx_bytes": 53856
+  },
+  {
+    "key": "aug10",
+    "period": "20260810–20260817",
+    "rows": 25,
+    "categories": {
+      "制造业企业巨头动态": 5,
+      "工业AI新技术/新产品": 5,
+      "工业AI资本与初创动态": 5,
+      "前沿科研与学术": 5,
+      "代表性中小企业新闻": 5
+    },
+    "body_han": 5933,
+    "body_non_whitespace": 8444,
+    "refs": 25,
+    "schema_validation": true,
+    "docx_exists": true,
+    "docx_zip_ok": true,
+    "docx_bytes": 57989
+  },
+  {
+    "key": "aug24",
+    "period": "20260824–20260831",
+    "rows": 26,
+    "categories": {
+      "制造业企业巨头动态": 5,
+      "工业AI新技术/新产品": 6,
+      "工业AI资本与初创动态": 5,
+      "前沿科研与学术": 5,
+      "代表性中小企业新闻": 5
+    },
+    "body_han": 5912,
+    "body_non_whitespace": 8014,
+    "refs": 26,
+    "schema_validation": true,
+    "docx_exists": true,
+    "docx_zip_ok": true,
+    "docx_bytes": 52404
+  },
+  {
+    "key": "oct10",
+    "period": "20261010–20261016",
+    "rows": 26,
+    "categories": {
+      "制造业企业巨头动态": 5,
+      "工业AI新技术/新产品": 6,
+      "工业AI资本与初创动态": 5,
+      "前沿科研与学术": 5,
+      "代表性中小企业新闻": 5
+    },
+    "body_han": 8110,
+    "body_non_whitespace": 9970,
+    "refs": 26,
+    "schema_validation": true,
+    "docx_exists": true,
+    "docx_zip_ok": true,
+    "docx_bytes": 57607
+  }
+]
